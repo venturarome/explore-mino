@@ -1,4 +1,4 @@
-baseURL = 'https://genway.com.cn/'
+baseURL = 'https://venturarome.github.io/explore-mino/'
 theme = 'hugo-theme-walden'
 
 defaultContentLanguage = 'es'
