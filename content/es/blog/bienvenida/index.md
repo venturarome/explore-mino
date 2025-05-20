@@ -2,7 +2,7 @@
 title = '¡Bienvenidos a Miño!'
 date = 2025-05-01T00:00:00+00:00
 draft = false
-categories = 'Hugo'
+categories = 'general'
 tags = ['Hugo theme']
 series = 'headline'
 [params]
