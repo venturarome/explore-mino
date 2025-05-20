@@ -1,0 +1,13 @@
+title = 'Explora Miño'
+
+contentDir = 'content/es'
+languageName = 'Español'
+languageCode = 'es-ES'
+
+copyright = 'Todos los derechos reservados'
+
+weight = 1
+
+[params]
+    author = 'Brendo Labs'
+    description = 'Desarrollado por Brendo Labs'
