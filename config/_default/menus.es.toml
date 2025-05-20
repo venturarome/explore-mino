@@ -1,5 +1,0 @@
-[[main]]
-  name = 'Inicio'
-  identifier = "home"
-  pageRef = '/'
-  weight = 10
