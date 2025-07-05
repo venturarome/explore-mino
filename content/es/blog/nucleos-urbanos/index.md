@@ -1,6 +1,6 @@
 +++
 title = 'Núcleos urbanos'
-date = 2024-07-28T15:11:55+08:00
+date = 2025-07-01T12:00:00+00:00
 draft = false
 categories = 'Cultura'
 tags = ['Reading']

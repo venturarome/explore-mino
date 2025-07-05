@@ -1,6 +1,6 @@
 +++
 title = '¡Welcome to Miño!'
-date = 2025-05-01T00:00:00+00:00
+date = 2025-07-01T23:59:59+00:00
 draft = false
 categories = 'general'
 tags = ['Hugo theme']

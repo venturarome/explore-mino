@@ -1,6 +1,6 @@
 +++
 title = 'Productos gallegos'
-date = 2024-07-28T15:17:50+08:00
+date = 2025-07-01T14:00:00+00:00
 draft = false
 categories = 'Gastronomía'
 tags = ['Reading']

@@ -1,6 +1,6 @@
 +++
 title = 'Playas'
-date = 2024-07-28T15:17:44+08:00
+date = 2025-07-01T10:00:00+00:00
 draft = false
 categories = 'Naturaleza'
 tags = ['Reading']
