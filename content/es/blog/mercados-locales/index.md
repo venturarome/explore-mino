@@ -2,7 +2,7 @@
 title = 'Mercados locales'
 date = 2024-07-28T15:11:55+08:00
 draft = false
-categories = 'Cultura', 'Gastronomía'
+categories = 'Gastronomía'
 tags = ['Reading']
 series = 'headline'
 [params]
