@@ -2,7 +2,7 @@
 title = 'Mercados locales'
 date = 2024-07-28T15:11:55+08:00
 draft = false
-categories = 'Naturaleza'
+categories = 'Cultura', 'Gastronomía'
 tags = ['Reading']
 series = 'headline'
 [params]
@@ -13,9 +13,9 @@ Visitar los mercados locales de Miño y sus alrededores es una forma de conectar
 
 <!--more-->
 
-<b>Mercado de Miño: tradición cada semana</b>
+<b>Mercado de Miño</b>
 
-En el propio municipio de Miño se celebra un mercado tradicional al aire libre todos los jueves por la mañana. Ubicado en el centro del pueblo, junto a la iglesia y el paseo marítimo, este mercado es muy frecuentado tanto por locales como por visitantes. Aquí puedes encontrar:
+En el propio municipio de Miño se celebra un mercado tradicional al aire libre todos los domingos por la mañana. Ubicado en el centro del pueblo, junto a la iglesia y el paseo marítimo, este mercado es muy frecuentado tanto por locales como por visitantes. Aquí puedes encontrar:
 - Frutas y verduras frescas de la comarca.
 - Pan artesanal y empanadas gallegas.
 - Quesos, embutidos y conservas caseras.
@@ -24,7 +24,12 @@ En el propio municipio de Miño se celebra un mercado tradicional al aire libre 
 Durante el verano, este mercado cobra especial vida y se convierte en un lugar perfecto para pasear, comprar algún recuerdo gastronómico y tomar un café en una de las terrazas cercanas.
 
 
-<b>Mercado de Betanzos: historia y variedad</b>
+<b>Mercado de Pontedeume</b>
+
+Se celebra los sábados por la mañana en su pintoresco casco histórico. Ideal para combinar compras con un paseo por el paseo marítimo o el castillo de los Andrade.
+
+
+<b>Mercado de Betanzos</b>
 
 A tan solo 15 minutos en coche, el Mercado Municipal de Betanzos es uno de los más completos y con más historia de la zona. El edificio, situado junto a la plaza Hermanos García Naveira, combina tradición y modernidad.
 
@@ -35,10 +40,9 @@ Betanzos es famoso por su tortilla, y no es raro encontrar recomendaciones y con
 Además, algunos sábados se organizan mercados especiales en el exterior con productos artesanos, ecológicos o de segunda mano.
 
 
-<b>Otros mercados que merece la pena visitar</b>
+<b>Mercado de Sada</b>
 
-- Mercado de Pontedeume (a 10 min): Se celebra los sábados por la mañana en su pintoresco casco histórico. Ideal para combinar compras con un paseo por el paseo marítimo o el castillo de los Andrade.
-- Mercado de Sada (a 20 min): Este pueblo costero acoge mercados de alimentación y también un mercadillo vintage o de artesanía algunos domingos. El ambiente es relajado, perfecto para una mañana tranquila frente al mar.
+Este pueblo costero acoge mercados de alimentación y también un mercadillo vintage o de artesanía algunos domingos. El ambiente es relajado, perfecto para una mañana tranquila frente al mar.
 
 
 <b>Conclusión: una forma de viajar con los sentidos</b>
